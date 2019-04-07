@@ -1,0 +1,5 @@
+name: Sample form
+description: A form for sample.:)
+core: 8.x
+package: custom
+type: module
